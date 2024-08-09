@@ -1,4 +1,4 @@
-# balls
+# ball
 import math
 
 # Размеры бассейна в метрах
